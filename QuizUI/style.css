@@ -17,7 +17,7 @@ body{
 }
 
 .quiz-container {
-  background-color: #45cd90;
+  background-color: #2cc994;
   border: black solid 3px;
   border-radius: 10px;
   box-shadow: 0 0 10px 2px rgba(100,100,100, 0.1);
@@ -50,7 +50,7 @@ ul li label{
 }
 
 button{
-  background-color: #8e44ad;
+  background-color: #ffd433;
   color:#fff;
   border-top: black solid 3px;
   display:block;
@@ -62,10 +62,10 @@ button{
 }
 
 button:hover{
-  background-color: #732d91;
+  background-color: #c2a32d;
 }
 
 button:focus {
   outline: none;
-  background-color: #732d91;
+  background-color: #c2a32d;
 }
